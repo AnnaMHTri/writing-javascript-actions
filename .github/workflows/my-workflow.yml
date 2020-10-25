@@ -1,1 +1,2 @@
-      - uses: actions\/checkout@v1
+name: JS Actions
+- uses: actions\/checkout@v1
